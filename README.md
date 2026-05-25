@@ -1,8 +1,8 @@
 # Hi, I'm Brent
 
-**Senior Director of Product Management** | **Enterprise AI & Linux Management** | **Red Hat** | **Open Source**
+**Sr. Director of PM** | **Tanium Portfolio Lead – Security Operations** | **Tanium**
 
-I'm a hands-on product management executive who still writes code because it's the most reliable way to stay sharp, stay curious, and stay honest about how modern software actually works. I studied computer science, built my early career as an engineer, and even in my current role at Red Hat, I keep a technical practice going here on GitHub.
+I'm a hands-on product management executive who still writes code because it's the most reliable way to stay sharp, stay curious, and stay honest about how modern software actually works. I studied computer science, built my early career as an engineer, and even in my current role at Tanium, I keep a technical practice going here on GitHub.
 
 This repo exists to show that even product executives can still be deeply technical, experimentally minded, and engaged with real development workflows.
 
@@ -20,7 +20,7 @@ My leadership philosophy is simple.  You can't lead modern product or engineerin
 
 Staying hands-on helps me:
 - Prototype new ideas quickly
-- Remember the practicalities of my current position at an Open Source Software company
+- Remember the practicalities of my current position at an enterprise security software company
 - Evaluate technical feasibility and architectural tradeoffs
 - Experiment with tools
 - Communicate credibly with engineers
